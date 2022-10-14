@@ -1,3 +1,4 @@
+<img width="1440" alt="Screenshot 2022-10-14 at 5 15 56 PM" src="https://user-images.githubusercontent.com/77886136/195844674-1b10d40d-a913-4195-a6b9-5f477e9444da.png">
 # Learn-SQL-for-Data-Engineering
 All the Practice Queries are saved. Learned from Khan Academy
 
