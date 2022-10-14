@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2022-10-14 at 5 15 56 PM" src="https://user-images.githubusercontent.com/77886136/195844674-1b10d40d-a913-4195-a6b9-5f477e9444da.png">
+
 # Learn-SQL-for-Data-Engineering
 All the Practice Queries are saved. Learned from Khan Academy
 
@@ -19,3 +19,4 @@ All the Practice Queries are saved. Learned from Khan Academy
 <img width="1440" alt="Screenshot 2022-10-14 at 5 08 13 PM" src="https://user-images.githubusercontent.com/77886136/195843282-849a9e70-a737-42e8-bf18-343c7d655657.png">
 <img width="1440" alt="Screenshot 2022-10-14 at 5 08 21 PM" src="https://user-images.githubusercontent.com/77886136/195843290-fa8294c3-d281-4105-ab57-c81f011004ad.png">
 <img width="1440" alt="Screenshot 2022-10-14 at 5 14 27 PM" src="https://user-images.githubusercontent.com/77886136/195844382-ee442439-e0ff-4956-933c-7075163ebda5.png">
+<img width="1440" alt="Screenshot 2022-10-14 at 5 15 56 PM" src="https://user-images.githubusercontent.com/77886136/195844674-1b10d40d-a913-4195-a6b9-5f477e9444da.png">
