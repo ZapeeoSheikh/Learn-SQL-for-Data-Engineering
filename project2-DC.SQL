@@ -1,0 +1,19 @@
+-- Select the city name
+Select name
+  -- Alias the table where city name resides
+  from cities AS c1
+  -- Choose only records matching the result of multiple set theory clauses
+  WHERE country_code IN
+(
+    -- Select appropriate field from economies AS e
+    SELECT e.code
+    FROM economies AS e
+    -- Get all additional (unique) values of the field from currencies AS c2  
+    union
+    SELECT c2.code
+    FROM currencies AS c2
+    -- Exclude those appearing in populations AS p
+    except
+    SELECT p.country_code
+    FROM populations AS p
+);
